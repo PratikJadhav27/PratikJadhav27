@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratik--jadhav07-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
 [![GitHub](https://img.shields.io/badge/GitHub-PratikJadhav27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PratikJadhav27)
-[![Email](https://img.shields.io/badge/Email-pratik.ja3456%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pratik.ja3456@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pratikja13%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pratik.ja3456@gmail.com)
 
 </div>
 
@@ -71,8 +71,6 @@ I work across the full ML lifecycle — from data pipelines and model training t
 ### 🔧 Tools & Data
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Crawl4AI](https://img.shields.io/badge/Crawl4AI-Web%20Scraping-0EA5E9?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -101,7 +99,7 @@ Open to collaborations, interesting problems, and conversations about AI systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikJadhav27)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratik.ja3456@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikja13@gmail.com)
 
 <br/>
 
