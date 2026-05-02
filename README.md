@@ -75,18 +75,6 @@ I work across the full ML lifecycle — from data pipelines and model training t
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PratikJadhav27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikJadhav27&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
