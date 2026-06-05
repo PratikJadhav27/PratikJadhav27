@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Pratik Jadhav**, an ML Systems Engineer based in **Pune, India 🇮🇳**.
+I'm **Pratik Jadhav**, an ML Systems Engineer based in **Pune, India**.
 
 I work across the full ML lifecycle — from data pipelines and model training to cloud deployment and production inference. My focus is on **GenAI, RAG architectures, computer vision, and scalable ML backends**.
 
