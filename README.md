@@ -20,7 +20,7 @@
 
 I'm **Pratik Jadhav**, an ML Systems Engineer based in **Pune, India**.
 
-I work across the full ML lifecycle — from data pipelines and model training to cloud deployment and production inference. My focus is on **GenAI, RAG architectures, computer vision, and scalable ML backends**.
+I work across the full ML lifecycle, from data pipelines and model training to cloud deployment and production inference. My focus is on **GenAI, RAG architectures, computer vision, and scalable ML backends**.
 
 - 🔭 &nbsp;Working on **LLM pipelines, RAG systems, and vision models in production**
 - ☁️ &nbsp;Deploying ML at scale with **Vertex AI, TensorFlow Serving, and Docker**
@@ -67,13 +67,6 @@ I work across the full ML lifecycle — from data pipelines and model training t
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Data
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 ## 🤝 Let's Connect
