@@ -39,15 +39,6 @@ Fine-tuned `flan-t5-base` with LoRA (8K medical examples, only 0.71% trainable p
 
 ---
 
-### ⚡ DSPy Fashion Intelligence Agent — 78% Latency Drop
-> Joshnik AI Labs, serving 16K+ brands
-
-Sequential API calls were killing response time. Rewrote the fetch layer using `ThreadPoolExecutor` for concurrent calls, replaced an LLM pre-filter with regex ranking, and capped context to the top 12 snippets. Latency went from ~18s to ~4s.
-
-`DSPy` `ThreadPoolExecutor` `Python` `LLM Pipelines`
-
----
-
 ### 🔍 LCD Defect Detection — 34% to 92% Accuracy
 > Alemeno Private Limited
 
