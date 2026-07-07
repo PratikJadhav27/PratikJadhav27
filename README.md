@@ -23,8 +23,8 @@ My focus is on **GenAI, RAG architectures, LLM fine-tuning, and computer vision*
 - 🏆 &nbsp;**3rd place** at an AI Hackathon with 800+ participants (Curalink — medical AI research assistant)
 - ⚡ &nbsp;Cut end-to-end agent latency from **~18s to ~4s** (78% reduction) on a system serving 16K+ brands
 - 🎯 &nbsp;Took a defect detection system from **34% to 92% accuracy** across 17 defect classes
-- 🎓 &nbsp;B.Tech CS @ Atria University, Bangalore — **CGPA: 9.02**
-- 📍 &nbsp;Open to **ML Engineer / AI Engineer / GenAI** roles across India
+- 🎓 &nbsp;B.Tech Computer Science Atria University, Bangalore — **CGPA: 9.02**
+- 📍 &nbsp;Open to **ML Engineer / AI Engineer / GenAI / Backend Development** roles across India
 
 ---
 
