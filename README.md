@@ -55,6 +55,15 @@ Hybrid RAG system combining FAISS and BM25 for retrieval. Set up an LLM-as-a-jud
 
 ---
 
+### Facial Emotion-Based Music Recommendation System
+Developed an facial emotion recognition system on 35K+ images, achieving 69.2% test accuracy across 7 emotion classes while
+improving minority-class recall by 20 percentage points.
+•Engineered a real-time recommendation engine using probabilistic emotion fusion, confidence-based filtering, and feedbackdriven personalization to deliver adaptive music recommendations.
+
+`TensorFlow` `Keras` `OpenCV` `Streamlit` `WebRTC` `Grad-CAM` `iTunes API`
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🤖 ML / AI
@@ -97,6 +106,7 @@ Hybrid RAG system combining FAISS and BM25 for retrieval. Set up an LLM-as-a-jud
 Open to **ML Engineer, AI Engineer, and GenAI roles** across India. If you're working on something interesting in LLMs, RAG, or production ML systems, I'm always up for a conversation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik-jadhav-portfolio-2026.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikja13@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Pratik-027)
 
