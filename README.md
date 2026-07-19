@@ -5,6 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratik--jadhav07-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik-jadhav-portfolio-2026.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-PratikJadhav27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PratikJadhav27)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-PratikJadhav27-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/PratikJadhav27)
 [![Email](https://img.shields.io/badge/Email-pratikja13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pratikja13@gmail.com)
@@ -106,7 +107,6 @@ improving minority-class recall by 20 percentage points.
 Open to **ML Engineer, AI Engineer, and GenAI roles** across India. If you're working on something interesting in LLMs, RAG, or production ML systems, I'm always up for a conversation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik-jadhav-portfolio-2026.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikja13@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Pratik-027)
 
