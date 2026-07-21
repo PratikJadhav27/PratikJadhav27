@@ -20,12 +20,12 @@ I'm an ML Engineer based in **Pune, India**, working across the full stack of an
 
 My focus is on **GenAI, RAG architectures, LLM fine-tuning, and computer vision**. I care a lot about the gap between "it works in a notebook" and "it holds up in production."
 
-- 🔭 &nbsp;Currently at **Joshnik AI Labs** — building LLM pipelines and distributed async backends
+- 🔭 &nbsp;Currently at **Joshnik AI Labs**, building LLM pipelines and distributed async backends
 - 🏆 &nbsp;**3rd place** at an AI Hackathon with 800+ participants (Curalink — medical AI research assistant)
 - ⚡ &nbsp;Cut end-to-end agent latency from **~18s to ~4s** (78% reduction) on a system serving 16K+ brands
 - 🎯 &nbsp;Took a defect detection system from **34% to 92% accuracy** across 17 defect classes
 - 🎓 &nbsp;B.Tech Computer Science Atria University, Bangalore — **CGPA: 9.02**
-- 📍 &nbsp;Open to **ML Engineer / AI Engineer / GenAI / Backend Development** roles across India
+- 📍 &nbsp;Open to **ML Engineer / AI Engineer / GenAI / Data Science/ Backend Development** roles across India
 
 ---
 
@@ -104,7 +104,7 @@ improving minority-class recall by 20 percentage points.
 
 ## 📫 Let's Connect
 
-Open to **ML Engineer, AI Engineer, and GenAI roles** across India. If you're working on something interesting in LLMs, RAG, or production ML systems, I'm always up for a conversation.
+Open to **ML Engineer, AI Engineer, GenAI  and Backend Development roles** across India. If you're working on something interesting in LLMs, RAG, or production ML systems, I'm always up for a conversation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikja13@gmail.com)
