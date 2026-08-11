@@ -79,7 +79,6 @@ improving minority-class recall by 20 percentage points.
 ![DSPy](https://img.shields.io/badge/DSPy-6366F1?style=for-the-badge&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA%20Fine--tuning-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### ☁️ Cloud & MLOps
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
