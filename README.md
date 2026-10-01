@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pratik Jadhav
-### ML Engineer — GenAI · RAG · LLMOps
+### AI/ML Engineer | Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratik--jadhav07-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik-jadhav-portfolio-2026.vercel.app)
