@@ -17,7 +17,7 @@ ML Engineer based in Pune, India, working across the ML stack — data pipelines
 
 Currently at Joshnik AI Labs, building LLM agent pipelines (DSPy/ReAct) and backend infrastructure (FastAPI, PostgreSQL, Redis, RabbitMQ).
 
-B.Tech Computer Science, Atria University, Bangalore — CGPA 9.02
+B.Tech Computer Science, Atria University, Bangalore — CGPA 8.53
 
 ---
 
