@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pratik Jadhav
-### AI/ML Engineer | Backend Developer
+### AI/ML Engineer | Software Developer Engineer | Backend Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratik--jadhav07-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav07/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik-jadhav-portfolio-2026.vercel.app)
@@ -65,6 +65,6 @@ Facial emotion recognition trained on 35K+ images across 7 emotion classes. Real
 
 ## Contact
 
-Open to ML Engineer / GenAI Engineer roles.
+Open to ML Engineer / GenAI Engineer / Backend Developer roles.
 
 [LinkedIn](https://www.linkedin.com/in/pratik-jadhav07/) · [Email](mailto:pratikja13@gmail.com) · [Hugging Face](https://huggingface.co/Pratik-027)
