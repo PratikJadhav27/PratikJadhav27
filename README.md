@@ -13,7 +13,7 @@
 
 ## About
 
-ML Engineer based in Pune, India, working across the ML stack — data pipelines, fine-tuning, and production deployment with evaluation in place. Focused on GenAI, RAG architectures, and LLM fine-tuning.
+ML Engineer and Backend Developer based in Pune, India, working across the ML stack — data pipelines, fine-tuning, and production deployment with evaluation in place. Focused on GenAI, RAG architectures, and LLM fine-tuning.
 
 Currently at Joshnik AI Labs, building LLM agent pipelines (DSPy/ReAct) and backend infrastructure (FastAPI, PostgreSQL, Redis, RabbitMQ).
 
