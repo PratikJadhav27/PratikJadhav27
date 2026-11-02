@@ -51,15 +51,15 @@ Facial emotion recognition trained on 35K+ images across 7 emotion classes. Real
 
 ## Tech Stack
 
-**ML/AI** — Python, PyTorch, TensorFlow, HuggingFace, Scikit-Learn, OpenCV
+**Languages**: Python, Rust, SQL
 
-**GenAI/LLMOps** — LangChain, DSPy, FAISS, RAG pipelines
+**AI/ML**: LLMs, RAG, DSPy, LangChain, LangGraph, Hugging Face, PyTorch, TensorFlow, Scikit-learn, CNNs, NLP, Computer
+Vision, LoRA
 
-**Cloud & MLOps** — Vertex AI, Docker, TensorFlow Serving, MLflow, GitHub Actions
+**Backend & Data**: FastAPI, REST APIs, Async Python, WebSockets, Celery, RabbitMQ, Redis, PostgreSQL, MongoDB, MySQL,
+FAISS, BM25, Qdrant
 
-**Backend** — FastAPI, PostgreSQL, RabbitMQ, Celery, Redis
-
-**Databases** — PostgreSQL, MongoDB, MySQL
+**MLOps & Cloud**: MLflow, Langfuse, Prometheus, Grafana, Vertex AI, Docker, TensorFlow Serving, GitHub Actions
 
 ---
 
